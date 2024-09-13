@@ -1,5 +1,5 @@
-#Credit Risk Classification
-#Overview
+Credit Risk Classification
+Overview
 This project focuses on predicting loan risk using a dataset of historical lending activity from a peer-to-peer lending services company. The goal is to classify loans as either "healthy" (low-risk) or "high-risk" based on various features. A logistic regression model was trained and evaluated to determine the likelihood of borrowers defaulting on their loans, helping the company assess creditworthiness.
 
 Dataset
